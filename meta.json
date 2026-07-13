@@ -1,0 +1,42 @@
+[
+  {
+    "value": "10.25739/kat4-na03",
+    "key": "DOI"
+  },
+  {
+    "value": "The Event Horizon Telescope Collaboration",
+    "key": "Creator"
+  },
+  {
+    "value": "Public Data Release of the Event Horizon Telescope 2017 Observations",
+    "key": "Title"
+  },
+  {
+    "value": "CyVerse Data Commons",
+    "key": "Publisher"
+  },
+  {
+    "value": "2022",
+    "key": "Publication Year"
+  },
+  {
+    "value": "The Event Horizon Telescope Collaboration (EHTC) and Joint ALMA Observatory (JAO) announce the public data release of the Very Long Baseline Interferometry (VLBI) 1-mm 2017 observations by the Event Horizon Telescope (EHT).  The overall goal of the observations is to image the supermassive black holes M87* and Sagittarius A* at event horizon scales and to image the AGNs OJ287, 3C279, CENA, and NGC1052 at high resolution.  This data delivery contains what is defined by the EHTC as L1 data for the 2017 observing campaign.  The 2017 campaign was the first where the Atacama Large Millimeter Array (ALMA) participated as a phased array, a capability that was developed by the ALMA Phasing Project.  The EHT L1 data encompasses the VLBI correlator output, converted into circular polarization basis, as well as the calibration information from the participating telescopes.  For ALMA this includes their quality assurance (QA2) output that is used for the polarization basis conversion.  The primary reference for the data from the EHT 2017 April observation campaign is Event Horizon Telescope Collaboration et al.  2019, ApJL, 875, L3 (doi: 10.3847/2041-8213/ab0c57) which in detail discusses the processing carried out for the current L1 data delivery.  For scientific results derived from the EHT 2017 April Observation Campaign see eventhorizontelescope.org/publications.  Additional data products derived from this L1 data can be found at eventhorizontelescope.org/for-astronomers/data.  This data delivery includes observations from  the following facilities: ALMA, the Atacama Pathfinder Experiment (APEX), the Submillimeter Telescope (SMT), the James Clerk Maxwell Telescope (JCMT), the Large Millimeter Telescope Alfonso Serrano (LMT), the IRAM 30m telescope, the Submillimeter Array (SMA), and the South Pole Telescope (SPT).  More information about these facilities can be found in Event Horizon Telescope Collaboration et al. 2019, ApJL, 875, L2 (doi: 10.3847/2041-8213/ab0c96).",
+    "key": "Description"
+  },
+  {
+    "value": "Very-Long-Baseline Interferometry (VLBI), Black Hole, Astronomy",
+    "key": "Subject"
+  },
+  {
+    "value": "ODC PDDL",
+    "key": "Rights"
+  },
+  {
+    "value": "Very-long-baseline interferometry (VLBI) Visibility Data",
+    "key": "resourceType"
+  },
+  {
+    "value": "2022-D01-01",
+    "key": "ehtDataProductCode"
+  }
+]
